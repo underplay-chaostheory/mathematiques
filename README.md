@@ -34,7 +34,7 @@ Tous les liens internes au site doivent être en relatifs.
   * Fiches d'apprentissage 
   > fiches à enregistrer pour apprendre les dérivées, ou la table des cubes par exemple 
 - Formula writer 
-> permet d'écrire des formuoles en ligne et de les sauvegarder au format .png ou .jpeg 
+> permet d'écrire des formules en ligne et de les sauvegarder au format .png ou .jpeg 
 - Contributeurs 
 > personnes ayant particpées au projet 
 - Calcul mental 
@@ -51,7 +51,7 @@ Tous les liens internes au site doivent être en relatifs.
   * Ressources
   > même choses que la page dédiée à cette partie 
   * Classement
-  *avec une notation pour la difficulté et l'utilité 
+  > avec une notation pour la difficulté et l'utilité 
 - Démonstrations
   * Théorèmes
   > démonstrations de théorème comme le théorème de Pythagore 
@@ -91,6 +91,6 @@ Tous les liens internes au site doivent être en relatifs.
   * Utilisation de la transformé de Fourier discrète
   > utilisation en électronique, en informatique ... pour faire des dessins 
   * Ressources
-  *même choses que la page dédiée à cette partie #
+  > même choses que la page dédiée à cette partie
 
 ## Questions
