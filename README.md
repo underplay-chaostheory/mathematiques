@@ -27,7 +27,7 @@ Tous les liens internes au site doivent être en relatifs.
 
 ## Organisation du site et des dossiers
 - Informations 
-  > information sur le site, ses objectifs, son histoire ... 
+> information sur le site, ses objectifs, son histoire ... 
 - Ressources 
 > tous les sites, livres, vidéos, blog qui nous permis de faire le site, au niveau des informations 
   * Sources, Compléments, Approfondissements
