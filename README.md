@@ -29,7 +29,7 @@ Tous les liens internes au site doivent être en relatifs.
 - Informations 
   > information sur le site, ses objectifs, son histoire ... 
 - Ressources 
-*tous les sites, livres, vidéos, blog qui nous permis de faire le site, au niveau des informations 
+> tous les sites, livres, vidéos, blog qui nous permis de faire le site, au niveau des informations 
   * Sources, Compléments, Approfondissements
   * Fiches d'apprentissage 
   > fiches à enregistrer pour apprendre les dérivées, ou la table des cubes par exemple 
