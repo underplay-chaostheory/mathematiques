@@ -28,9 +28,9 @@ Tous les liens internes au site doivent être en relatifs.
 ## Organisation du site et des dossiers
 - Informations 
 > information sur le site, ses objectifs, son histoire ... 
-- Ressources 
-> tous les sites, livres, vidéos, blog qui nous permis de faire le site, au niveau des informations 
+- Ressources  
   * Sources, Compléments, Approfondissements
+  > tous les sites, livres, vidéos, blog qui nous permis de faire le site, au niveau des informations
   * Fiches d'apprentissage 
   > fiches à enregistrer pour apprendre les dérivées, ou la table des cubes par exemple 
 - Formula writer 
