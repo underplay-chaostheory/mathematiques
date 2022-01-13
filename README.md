@@ -1,4 +1,4 @@
-# MATHEMATIQUE
+# MATHEMATIQUES
 
 ## Table des matières :
 * [Informations générales](#informations-générales)
