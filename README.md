@@ -90,6 +90,8 @@ Tous les liens internes au site doivent être en relatifs.
   * Transformé de Fourier discrète
   * Utilisation de la transformé de Fourier discrète
   > utilisation en électronique, en informatique ... pour faire des dessins 
+  * Dessinateur de Série de Fourier complexe
+  > dessine les valeurs d'une série de Fourier complexe comme une fonction 
   * Ressources
   > même choses que la page dédiée à cette partie
 
