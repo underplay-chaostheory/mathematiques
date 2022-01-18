@@ -35,6 +35,8 @@ Tous les liens internes au site doivent être en relatifs.
   > fiches à enregistrer pour apprendre les dérivées, ou la table des cubes par exemple 
 - Formula writer 
 > permet d'écrire des formules en ligne et de les sauvegarder au format .png ou .jpeg 
+- Equation drawer
+> permet de dessiner une équation et d'en enregistrer le résultat au format .png ou .jpeg
 - Contributeurs 
 > personnes ayant particpées au projet 
 - Calcul mental 
